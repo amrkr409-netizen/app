@@ -1,8 +1,8 @@
 {
- "versionCode": 70,
- "versionName": "6.24",
- "sha256": "386af01cf4a8713c602ca597b1d12c804f6713752d4f8b0e2e49dd058ef804f5",
- "notes_en": "The app is now named Amr Vpn.",
- "notes_ar": "اسم التطبيق بقى Amr Vpn.",
+ "versionCode": 71,
+ "versionName": "6.25",
+ "sha256": "2e383c82144a713db48db0e666b4506f239eb25cb6dd03921ca78c701c1d09c4",
+ "notes_en": "Fix: HTTP SSH connections now retry automatically when the server drops the first attempt.",
+ "notes_ar": "إصلاح: اتصالات SSH من نوع HTTP بتعيد المحاولة لوحدها لما السيرفر يقفل أول مرة.",
  "force": false
 }
