@@ -1,8 +1,8 @@
 {
- "versionCode": 69,
- "versionName": "6.23",
- "sha256": "f214af37541b016b8652cb0ee642f194b2fbf450e76a30ea4fb2f7ee12c1c6e0",
- "notes_en": "Update test: nothing else changed.",
- "notes_ar": "تجربة التحديث: مفيش تغيير تاني.",
+ "versionCode": 70,
+ "versionName": "6.24",
+ "sha256": "386af01cf4a8713c602ca597b1d12c804f6713752d4f8b0e2e49dd058ef804f5",
+ "notes_en": "The app is now named Amr Vpn.",
+ "notes_ar": "اسم التطبيق بقى Amr Vpn.",
  "force": false
 }
