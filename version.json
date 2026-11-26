@@ -1,8 +1,8 @@
 {
-  "versionCode": 87,
-  "versionName": "6.41",
-  "sha256": "361f0662c1666f9ef9c9918e57a535f40965b6a68e5c3c1abbd08be529b46584",
-  "notes_en": "Servers that answer with WebSocket (101) now work: SSH is carried inside WebSocket frames automatically. Disconnect now stops retries and connection logs immediately.",
-  "notes_ar": "السيرفرات اللي بترد ويب سوكيت (101) بقت شغالة: التطبيق بيشيل SSH جوه فريمات الويب سوكيت لوحده. ديسكونكت بقى بيوقف المحاولات واللوج فورًا.",
+  "versionCode": 89,
+  "versionName": "6.42",
+  "sha256": "149a904ea5cc4e5e70cbb6167b0a5239883e92b88181b3b714b47474df676641",
+  "notes_en": "The server host name no longer appears when a connection fails.",
+  "notes_ar": "اسم هوست السيرفر مبقاش يظهر عند فشل الاتصال.",
   "force": false
 }
