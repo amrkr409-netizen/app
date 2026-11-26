@@ -1,8 +1,8 @@
 {
-  "versionCode": 81,
-  "versionName": "6.35",
-  "sha256": "93fe9db8f7da7c481b4de9f08aaf13f1f7c4b6089b42cd08af0e9f36024cd2e4",
-  "notes_en": "Important update. Install it so the app can move to the new version.",
-  "notes_ar": "تحديث مهم. ثبته عشان التطبيق يقدر ينتقل للنسخة الجديدة.",
+  "versionCode": 83,
+  "versionName": "6.37",
+  "sha256": "35c80f6ba2dfacd47cb57581863be39cbd2a5b3c5d367eb73bb73d0005722bd5",
+  "notes_en": "New: each SSH connection type (TLS/SNI, HTTP Proxy, HTTP Proxy SNI) can use its own custom SSH account. Turn it on inside the type's page; off uses the general account as before.",
+  "notes_ar": "جديد: كل نوع اتصال SSH (TLS/SNI و HTTP Proxy و HTTP Proxy SNI) يقدر يستخدم حساب SSH مخصص لوحده. فعّله من صفحة النوع؛ ولو مطفي بيستخدم الحساب العام زي الأول.",
   "force": false
 }
