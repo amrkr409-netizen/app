@@ -1,8 +1,1 @@
-{
- "versionCode": 71,
- "versionName": "6.25",
- "sha256": "2e383c82144a713db48db0e666b4506f239eb25cb6dd03921ca78c701c1d09c4",
- "notes_en": "Fix: HTTP SSH connections now retry automatically when the server drops the first attempt.",
- "notes_ar": "إصلاح: اتصالات SSH من نوع HTTP بتعيد المحاولة لوحدها لما السيرفر يقفل أول مرة.",
- "force": false
-}
+{"versionCode":72,"versionName":"6.26","sha256":"fb50ed09ad018bbe02623b785085c0f040ee02eb12d0a2d40ba39df235d437db","notes_en":"Arabic mode keeps the same layout as English; only the language changes.","notes_ar":"في الوضع العربي كل حاجة في مكانها زي الإنجليزي، اللغة بس هي اللي بتتغير.","force":false}
