@@ -1,8 +1,8 @@
 {
-  "versionCode": 80,
-  "versionName": "6.34",
-  "sha256": "d57b474e784ec40545c5c5f51877e5a00cdd2a02cd0bc620126550545ae1b278",
-  "notes_en": "New package (com.amrpro.vpn). Fresh settings + pinned SSH presets; SSH account loads from the config file. Android 7+. Uninstall the old app when prompted.",
-  "notes_ar": "حزمة جديدة (com.amrpro.vpn). إعدادات جديدة + سيرفرات SSH مثبتة؛ حساب SSH بيتحمل من ملف الإعدادات. أندرويد 7+. امسح التطبيق القديم لما يطلب منك.",
+  "versionCode": 81,
+  "versionName": "6.35",
+  "sha256": "93fe9db8f7da7c481b4de9f08aaf13f1f7c4b6089b42cd08af0e9f36024cd2e4",
+  "notes_en": "Important update. Install it so the app can move to the new version.",
+  "notes_ar": "تحديث مهم. ثبته عشان التطبيق يقدر ينتقل للنسخة الجديدة.",
   "force": false
 }
