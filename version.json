@@ -1,8 +1,8 @@
 {
-  "versionCode": 84,
-  "versionName": "6.38",
-  "sha256": "ad264c4f1d9c81e6e2c43158df3c37ae106fb928c3961feb15744f59bf35749b",
-  "notes_en": "Fix: a connection type's custom SSH account now also applies to the built-in presets of that type.",
-  "notes_ar": "إصلاح: حساب SSH المخصص لنوع الاتصال بقى يشتغل كمان مع البريسيتس الجاهزة من نفس النوع.",
+  "versionCode": 87,
+  "versionName": "6.41",
+  "sha256": "361f0662c1666f9ef9c9918e57a535f40965b6a68e5c3c1abbd08be529b46584",
+  "notes_en": "Servers that answer with WebSocket (101) now work: SSH is carried inside WebSocket frames automatically. Disconnect now stops retries and connection logs immediately.",
+  "notes_ar": "السيرفرات اللي بترد ويب سوكيت (101) بقت شغالة: التطبيق بيشيل SSH جوه فريمات الويب سوكيت لوحده. ديسكونكت بقى بيوقف المحاولات واللوج فورًا.",
   "force": false
 }
