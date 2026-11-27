@@ -1,8 +1,8 @@
 {
-  "versionCode": 115,
-  "versionName": "6.55",
-  "sha256": "f078f3ccf45236351a6b772a26bc8ef9129c171eed44549a4055ada6f2f33087",
-  "notes_en": "Logs now show only the first character of the SSH host for entries from encrypted files and presets; everything else is unchanged.",
-  "notes_ar": "السجلات بتظهر أول حرف بس من اسم سيرفر SSH للعناصر اللي جاية من ملفات مشفرة؛ وكل حاجة تانية زي ما هي.",
+  "versionCode": 119,
+  "versionName": "6.57",
+  "sha256": "0dcbbf166acdeae34c50dfec24e23d1cd18731e62ba17aaff81416a0efef820c",
+  "notes_en": "Preset update now also restores per-protocol options (fp/ins/mux). Fixed uploads stalling: a server that answered early no longer kills an upload in progress, and one slow connection no longer freezes uploads on the others.",
+  "notes_ar": "تحديث السيرفرات بقى بيرجع إعدادات البروتوكولات كمان. واتصلح تعليق الرفع: رد السيرفر المبكر مبقاش يوقف الرفع، واتصال بطيء واحد مبقاش يجمد الرفع في الباقي.",
   "force": false
 }
