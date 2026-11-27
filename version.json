@@ -1,1 +1,8 @@
-{"versionCode": 105, "versionName": "6.50", "sha256": "66da0a88643a8722befe4f595fce1469cc413df019eb8c07f7e7f085e87a151c", "notes_en": "Fresh installs now start with: English, Classic theme, Dark mode, Cyan accent. Your choices are never overwritten.", "notes_ar": "التثبيت الجديد بيبدأ بـ: الإنجليزية، ثيم Classic، الوضع الداكن، ولون Cyan. اختياراتك مش بتتغير أبدًا.", "force": false}
+{
+  "versionCode": 115,
+  "versionName": "6.55",
+  "sha256": "f078f3ccf45236351a6b772a26bc8ef9129c171eed44549a4055ada6f2f33087",
+  "notes_en": "Logs now show only the first character of the SSH host for entries from encrypted files and presets; everything else is unchanged.",
+  "notes_ar": "السجلات بتظهر أول حرف بس من اسم سيرفر SSH للعناصر اللي جاية من ملفات مشفرة؛ وكل حاجة تانية زي ما هي.",
+  "force": false
+}
