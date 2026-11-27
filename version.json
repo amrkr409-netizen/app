@@ -1,8 +1,1 @@
-{
-  "versionCode": 91,
-  "versionName": "6.43",
-  "sha256": "e679f2c7fd4fead1b111e30c0332b6167b6501bc2e038e2e06e5fb60d20a5b15",
-  "notes_en": "Fixes a crash when opening the app after moving from the old copy.",
-  "notes_ar": "إصلاح كراش عند فتح التطبيق بعد النقل من النسخة القديمة.",
-  "force": false
-}
+{"versionCode": 105, "versionName": "6.50", "sha256": "66da0a88643a8722befe4f595fce1469cc413df019eb8c07f7e7f085e87a151c", "notes_en": "Fresh installs now start with: English, Classic theme, Dark mode, Cyan accent. Your choices are never overwritten.", "notes_ar": "التثبيت الجديد بيبدأ بـ: الإنجليزية، ثيم Classic، الوضع الداكن، ولون Cyan. اختياراتك مش بتتغير أبدًا.", "force": false}
