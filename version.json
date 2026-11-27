@@ -1,8 +1,8 @@
 {
-  "versionCode": 119,
-  "versionName": "6.57",
-  "sha256": "0dcbbf166acdeae34c50dfec24e23d1cd18731e62ba17aaff81416a0efef820c",
-  "notes_en": "Preset update now also restores per-protocol options (fp/ins/mux). Fixed uploads stalling: a server that answered early no longer kills an upload in progress, and one slow connection no longer freezes uploads on the others.",
-  "notes_ar": "تحديث السيرفرات بقى بيرجع إعدادات البروتوكولات كمان. واتصلح تعليق الرفع: رد السيرفر المبكر مبقاش يوقف الرفع، واتصال بطيء واحد مبقاش يجمد الرفع في الباقي.",
+  "versionCode": 143,
+  "versionName": "6.69",
+  "sha256": "6e70ae83b5cb0811b8bc16a34b072b3b972a25dc48c89e4da90f4bfa7d31606b",
+  "notes_en": "اصلاحات اخرى",
+  "notes_ar": "اصلاحات اخرى",
   "force": false
 }
